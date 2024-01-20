@@ -1,8 +1,6 @@
 # React + Vite
 
-# Overview
-
-## Description: 
+# Overview: 
 React JS is an open-source JavaScript library developed and maintained by Facebook. It is widely used for building user interfaces, especially for single-page applications where smooth and efficient updates to the user interface are crucial. React allows developers to create reusable UI components and manage the state of the application efficiently.
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
