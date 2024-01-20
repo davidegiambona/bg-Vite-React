@@ -1,11 +1,14 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Overview
 
-Currently, two official plugins are available:
+##Description: 
+React JS is an open-source JavaScript library developed and maintained by Facebook. It is widely used for building user interfaces, especially for single-page applications where smooth and efficient updates to the user interface are crucial. React allows developers to create reusable UI components and manage the state of the application efficiently.
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+#Getting Started:
 
 With NPM:
 
@@ -47,3 +50,9 @@ npm install
 
 npm run dev
 ```
+#Resources
+- [React Documentation](https://legacy.reactjs.org/docs/getting-started.html): Official documentation to help you learn React and build powerful applications.
+- [React GitHub Repository](https://github.com/facebook/react/tree/main): Access the source code, report issues, and contribute to the development of React.
+
+#LICENSE: 
+React is [MIT licensed](LICENSE).
