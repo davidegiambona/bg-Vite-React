@@ -55,4 +55,4 @@ npm run dev
 - [React GitHub Repository](https://github.com/facebook/react/tree/main): Access the source code, report issues, and contribute to the development of React.
 
 # LICENSE: 
-React is [MIT licensed](LICENSE).
+React is [MIT licensed](https://github.com/davidegiambona/bg-Vite-React/blob/main/LICENSE.txt).
