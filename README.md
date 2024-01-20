@@ -27,7 +27,7 @@ bash
 $ pnpm create vite
 ```
 
-With bash, you can also directly specify the project name and the template you want to use via additional command line options. For example, to scaffold a Vite + Vue project, run:
+With npm, you can also directly specify the project name and the template you want to use via additional command line options. For example, to scaffold a Vite + Vue project, run:
 
 bash
 ```language
