@@ -13,7 +13,21 @@ bash
 ```
 $ npm create vite@latest
 ```
-You can also directly specify the project name and the template you want to use via additional command line options. For example, to scaffold a Vite + Vue project, run:
+
+With Yarn:
+
+bash
+```
+$ yarn create vite
+```
+
+With PNPM:
+bash
+```
+$ pnpm create vite
+```
+
+With bash, you can also directly specify the project name and the template you want to use via additional command line options. For example, to scaffold a Vite + Vue project, run:
 
 bash
 ```language
