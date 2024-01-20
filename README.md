@@ -10,28 +10,25 @@ React JS is an open-source JavaScript library developed and maintained by Facebo
 
 With NPM:
 
-bash
 ```
 $ npm create vite@latest
 ```
 
 With Yarn:
 
-bash
 ```
 $ yarn create vite
 ```
 
 With PNPM:
-bash
+
 ```
 $ pnpm create vite
 ```
 
 With npm, you can also directly specify the project name and the template you want to use via additional command line options. For example, to scaffold a Vite + Vue project, run:
 
-bash
-```language
+```bash
 # npm 6.x
 npm create vite@latest my-vue-app --template vue
 
